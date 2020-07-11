@@ -7,7 +7,7 @@ This is a place where I opensource stuff and break things :rofl:
 - 📫 How to reach me: [@gautamkrishnar](https://twitter.com/gautamkrishnar)
 - ⚡ Fun fact: I :heart: :dog:s, Hate :cat:s	
 
-📊 **I am spending my time on**
+📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
 JavaScript  1 hr 56 mins        ██████████████████░░░░░░░   73.01 
