@@ -10,8 +10,6 @@ This is the place where I opensource stuff and break things :rofl:
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 10 July, 2020 - 17 July, 2020
-
 TypeScript  4 hrs 32 mins       ███████████░░░░░░░░░░░░░░   44.59 % 
 YAML        1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
 HTML        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
