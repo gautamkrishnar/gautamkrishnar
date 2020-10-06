@@ -9,7 +9,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 📊 **This week I spent my time on**
 
-![Aadit's wakatime stats](https://gkr-stats.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true)
+![Aadit's wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5)
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
