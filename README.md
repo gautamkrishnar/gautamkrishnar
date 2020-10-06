@@ -8,15 +8,8 @@ This is the place where I opensource stuff and break things :rofl:
 - ⚡ Fun fact: I :heart: :dog:s
 
 📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
-```text
-Python       3 hrs 42 mins   █████████▒░░░░░░░░░░░░░░░   37.07 % 
-TypeScript   3 hrs 22 mins   ████████▒░░░░░░░░░░░░░░░░   33.70 % 
-JavaScript   49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-HTML         41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-CSS          36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-```
-<!--END_SECTION:waka-->
+
+![Aadit's wakatime stats](https://gkr-stats.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true)
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
