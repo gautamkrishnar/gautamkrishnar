@@ -6,10 +6,11 @@ This is the place where I opensource stuff and break things :rofl:
 - 💬 Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
 - 📫 How to reach me: [@gautamkrishnar](https://twitter.com/gautamkrishnar)
 - ⚡ Fun fact: I :heart: :dog:s
-
+<!--
 📊 **This week I spent my time on**
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5)
+-->
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
