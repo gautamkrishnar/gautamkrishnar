@@ -19,3 +19,5 @@ This is the place where I opensource stuff and break things :rofl:
 - [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 - [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
 <!-- BLOG-POST-LIST:END -->
+
+<img src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
