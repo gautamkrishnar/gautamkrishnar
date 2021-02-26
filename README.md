@@ -2,7 +2,7 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning AI, ML and Blockchain
+- 🌱 I’m currently learning Flutter, Go
 - 💬 Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
 - 📫 How to reach me: [@gautamkrishnar](https://twitter.com/gautamkrishnar) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
 - ⚡ Fun fact: I :heart: :dog:s
