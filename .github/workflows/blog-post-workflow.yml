@@ -11,8 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: curl https://www.gautamkrishnar.com/feed/ -o /tmp/feed.xml
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://dev.to/feed/gautamkrishnar,file:///tmp/feed.xml"
+          feed_list: "https://dev.to/feed/gautamkrishnar,https://gautamkrishnar.com/custom/feed.php"
