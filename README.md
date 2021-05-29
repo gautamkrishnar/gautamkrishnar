@@ -21,6 +21,11 @@ This is the place where I opensource stuff and break things :rofl:
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5)
 
-📈 **Language stats**
+<details>
+  <summary><b>📈 Language stats</b></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
+  <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=gautamkrishnar&padding=30'>
+  </a>
 
-![Language stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=gautamkrishnar&padding=30)
+</details>
