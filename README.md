@@ -7,10 +7,6 @@ This is the place where I opensource stuff and break things :rofl:
 - 📫 How to reach me: [@gautamkrishnar](https://twitter.com/gautamkrishnar) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
 - ⚡ Fun fact: I :heart: :dog:s
 
-📊 **This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5)
-
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
@@ -20,3 +16,11 @@ This is the place where I opensource stuff and break things :rofl:
 <!-- BLOG-POST-LIST:END -->
 
 <img src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
+
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5)
+
+📈 **Language stats**
+
+![Language stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=gautamkrishnar&padding=30)
