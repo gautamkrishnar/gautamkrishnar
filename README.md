@@ -15,8 +15,6 @@ This is the place where I opensource stuff and break things :rofl:
 - [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
 <!-- BLOG-POST-LIST:END -->
 
-<img src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
-
 📊 **This week I spent my time on**
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5)
@@ -29,3 +27,6 @@ This is the place where I opensource stuff and break things :rofl:
   </a>
 
 </details>
+
+
+<img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
