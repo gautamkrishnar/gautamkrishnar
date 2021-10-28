@@ -27,8 +27,9 @@ This is the place where I opensource stuff and break things :rofl:
 📊 &nbsp;**This week I spent my time on**
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
-### About Me ✨
+<details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
 
 I am a Full Stack Developer with 8+ years of experience in developing enterprise applications and open-source software.
 
@@ -66,6 +67,7 @@ Most of the open-source projects I create are the solutions to the problems I fa
 - Won the 1st edition of [GitHub India Open Source Grants](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/)
 - Worked as [DuckDuckGo Community Leader](https://help.duckduckgo.com/community/community-leaders/) and Maintainer
 - Won 1st place in Several Hackathons
+</details> 
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
