@@ -8,8 +8,6 @@ This is the place where I opensource stuff and break things :rofl:
 - 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s
 
-Read more about my open source journey at my [Github Sponsors](https://github.com/sponsors/gautamkrishnar) page.
-
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
