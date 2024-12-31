@@ -26,7 +26,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 ### ✨&nbsp; About Me
 
-I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software.
+I am a Full Stack Developer with 5+ years of experience in developing enterprise applications and open-source software.
 
 #### My Opensource Story
 All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
