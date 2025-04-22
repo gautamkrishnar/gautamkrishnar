@@ -13,7 +13,9 @@ This is the place where I opensource stuff and break things :rofl:
 >
 > The `gautamkrishnar/keepalive-workflow` repository has been temporarily disabled by GitHub due to a Terms of Service violation.
 > 
-> I believe this may be a mistake and have contacted GitHub Support for clarification. I’m currently awaiting their response and will share updates as soon as possible.  
+> I believe this may be a mistake and have contacted GitHub Support for clarification. I’m currently awaiting their response and will share updates as soon as possible.
+>
+> **Update Apr 22 2025 20:47** : The GitHub team confirmed that this is a [TOS violation](https://github.com/user-attachments/assets/16021f6c-3211-4ba1-8c93-ed5511559d09) because it promoted excessive usage by circumventing the 60‑day inactivity policy. I’ve asked whether they can restore the repository so I can gracefully remove the project after informing the users about this. Waiting for their reply on this. 
 >
 
 
