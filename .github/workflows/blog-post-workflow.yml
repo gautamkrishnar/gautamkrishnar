@@ -4,7 +4,7 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
-  actions: write
+  contents: write
 
 jobs:
   update-readme-with-blog:
